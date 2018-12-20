@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1032798332051",
+    "firebase_url": "https://privatechat-kendra.firebaseio.com",
+    "project_id": "privatechat-kendra",
+    "storage_bucket": "privatechat-kendra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032798332051:android:60d33207adc85121",
+        "android_client_info": {
+          "package_name": "np.com.kendraregmi.missme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032798332051-vfieg957ni2qll40la2behifrbf5igod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "np.com.kendraregmi.missme",
+            "certificate_hash": "e974a9ea9d6cf0689911eef467c817e5512222dd"
+          }
+        },
+        {
+          "client_id": "1032798332051-auq2d03vqs3b03k6fphai2khum9g0cpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp-YdSrodwPceSE4Os6e6WLS27TJvb3wc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032798332051-auq2d03vqs3b03k6fphai2khum9g0cpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
